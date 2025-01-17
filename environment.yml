@@ -1,0 +1,10 @@
+name: env_flask_1
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - flask
+  - pandas
+  - geopandas
+  - click
+  
